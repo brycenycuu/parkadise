@@ -6,8 +6,6 @@ Sharing with friends will be supported in future versions.
 
 Download from App Store today. Feedbacks are highly appreciated!
 
-![](L_1.png)
-![](L_2.png)
-![](L_3.png)
-![](L_4.png)
-![](L_5.png)
+<img src="L_1.png" alt="drawing" width="150"/>
+<img src="L_2.png" alt="drawing" width="150"/>
+<img src="L_3.png" alt="drawing" width="150"/>
