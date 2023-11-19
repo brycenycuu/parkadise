@@ -1,5 +1,1 @@
-layout: page
-title: "About - Parkadise"
-permalink: /about
-
 Parkadise does not collect personal data. Personal data are stored locally. An internet connection is required to download data. All images belong to their original owners and are used for non-commercial purpose only.
